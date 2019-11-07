@@ -1,3 +1,7 @@
+| :exclamation: |	**Repository will be archived soon!** |
+|-|-|
+|:warning:|Please note that development of the CFF schema has been moved to<br/>https://github.com/citation-file-format/citation-file-format.<br/>This repository (`schema`) will be archived soon!|
+
 # Citation File Format Schemas
 
 This repository holds schemas for [CFF](https://github.com/citation-file-format/citation-file-format)
